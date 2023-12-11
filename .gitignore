@@ -1,0 +1,6 @@
+# not important directories
+.vscode*
+build*
+.vs*
+Debug*
+Release*
