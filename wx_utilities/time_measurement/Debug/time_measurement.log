@@ -1,6 +1,0 @@
-﻿  chrono_duration.cpp
-E:\wwwxxx\lwx\vcwork\wx_utilities\time_measurement\chrono_duration.cpp(100,28): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
-E:\wwwxxx\lwx\vcwork\wx_utilities\time_measurement\chrono_duration.cpp(127,28): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
-  TimeMeasurement.cpp
-  正在生成代码...
-  time_measurement.vcxproj -> E:\wwwxxx\lwx\vcwork\wx_utilities\Debug\time_measurement.exe
